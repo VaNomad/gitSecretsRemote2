@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/VaNomad/gitSecretsRemote2/issues"
   },
-  "homepage": "https://github.com/VaNomad/gitSecretsRemote2#readme"
+  "homepage": "https://github.com/VaNomad/gitSecretsRemote2#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
